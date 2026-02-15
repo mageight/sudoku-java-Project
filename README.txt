@@ -45,10 +45,10 @@
 
 
 4. スクリーンショット
-　![数独生成画面](../images/SUDOKU_title.gif)
-　![プレイ画面](../images/SUDOKU_playe.gif)
-　![エラー画面](../images/SUDOKU_error.gif)
-　![数独生成](../images/SUDOKU_title.gif)
+　![数独生成画面](./images/SUDOKU_title.gif)
+　![プレイ画面](./images/SUDOKU_playe.gif)
+　![エラー画面](./images/SUDOKU_error.gif)
+　![数独生成](./images/SUDOKU_title.gif)
 
 
 5. 注力事項
