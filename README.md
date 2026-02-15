@@ -48,7 +48,7 @@
 　![数独生成画面](./images/SUDOKU_title.gif)
 　![プレイ画面](./images/SUDOKU_playe.gif)
 　![エラー画面](./images/SUDOKU_error.gif)
-　![数独生成](./images/SUDOKU_title.gif)
+　![数独生成](./images/SUDOKU_answer.gif)
 
 
 5. 注力事項
@@ -157,3 +157,6 @@
 
 [2026/02/13]
 ・logicフォルダの一部クラスにjavadocをコメント記載
+
+[2026/02/15]
+・すべてのクラスにjavadocコメントを記載
